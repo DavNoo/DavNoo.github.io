@@ -15,7 +15,7 @@
     border-radius: 12px;
     background-color: #f44336;/* Red */ 
     padding: 50px;
-
+    cursor: pointer !important;
   }
 
   #text1 {
